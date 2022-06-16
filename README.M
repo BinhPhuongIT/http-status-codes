@@ -59,6 +59,7 @@ Status code	Meaning
 429	Too Many Requests
 431	Request Header Fields Too Large
 451	Unavailable For Legal Reasons
+499 in Nginx means that the client closed the connection
  	 
 5xx Server Error	 
 500	Internal Server Error
